@@ -19,4 +19,7 @@ For converting some coordinate on hg38 to its respective coordinate on the T2T a
 ```
 python3 conversion.py hg38_to_chm13v1.chain chr2:125398
 ```
-
+The output has the following format:
+```
+chrom:pos  strand  score
+Here, score corresponds to the alignment score in the chain file.
