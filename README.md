@@ -24,3 +24,5 @@ The output has the following format:
 chrom:pos  strand  score
 ``` 
 Here, score corresponds to the alignment score in the chain file.
+
+## Create Custom Chain Files
