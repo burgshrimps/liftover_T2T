@@ -16,6 +16,5 @@ For coordinate conversions using an exisiting chain file, such as the one provid
 
 ## Coordinate Conversion
 
-```
-python3 
+```python3 conversion.py hg38_to_chm13v1.chain chr2:125398
 
