@@ -4,3 +4,5 @@ Recently the Telomere-to-Telomere consoritum published a complete [T2T reconstru
 
 ## Prerequisites
 For coordinate conversions using an exisiting chain file, such as the one provided in this repository, only [pyliftover](https://pypi.org/project/pyliftover/) is needed.
+If one wants to create their own chain file using the providid scripts the following tools need to be installed:
+* test
