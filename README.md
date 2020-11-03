@@ -1,3 +1,3 @@
-# Liftover T2T
+# LiftOver T2T <-> hg38
 
 test
