@@ -1,3 +1,3 @@
-# LiftOver hg38 to T2T chm13
+# LiftOver hg38 to T2T
 
 test
